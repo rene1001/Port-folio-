@@ -1,0 +1,6 @@
+{
+  "name": "DevPortfolio CMS - Ingénieur Logiciel & Espace Admin",
+  "description": "Portfolio professionnel d'ingénieur logiciel avec CMS d'administration complet pour gérer projets, articles, compétences et services sans toucher au code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
